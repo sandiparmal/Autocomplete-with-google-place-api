@@ -35,7 +35,7 @@ public class AutoCompleteSearchAdapter {
 	private static final String TYPE_AUTOCOMPLETE = "/autocomplete";
 	private static final String OUT_JSON = "/json";
 
-	private static final String API_KEY = "AIzaSyDD5wOWJZBP_jUO0WiNvbiAMgPhlwdzHSo";
+	private static final String API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 	public AutoCompleteSearchAdapter(String requestType, Context context,
 			int autoCompleteView) {
