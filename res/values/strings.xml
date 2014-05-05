@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GooglePlaces</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="autocompletehint">Enter Place Name</string>
+    
+    <color name="text_color">#333333</color>
+    <color name="hint_color">#999999</color>
+    <color name="autocompletet_background_color">#EFEFEF</color>
+    <color name="transparent">#00000000</color>
+    
+
+</resources>
